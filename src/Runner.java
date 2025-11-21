@@ -8,5 +8,7 @@ public class Runner {
         } else{
             System.out.println("num1 is smaller");
         }
+
+        System.out.println("Hello");
     }
 }
